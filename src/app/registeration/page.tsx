@@ -12,7 +12,7 @@ export default function LoginPage() {
         <Image className="" src={logophone} alt="logo" />
         <h1 className="text-white font-bold text-3xl mt-4">Asatera</h1>
       </div>
-      <div className="flex md:flex-row flex-col bg-white justify-center items-stretch w-full md:rounded-l-3xl md:min-h-[700px] max-h-[200px] rounded-t-3xl md:relative  md:h-full absolute bottom-0 ">
+      <div className="flex md:flex-row flex-col bg-white justify-center items-stretch w-full md:rounded-l-3xl md:min-h-[700px] rounded-t-3xl md:relative  md:h-full absolute bottom-0 ">
         <div className="flex-1 flex flex-col w-full h-full md:px-24  md:py-10  pt-10 px-10 ">
           <div className="flex items-center space-x-9">
             <Image
